@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<krjGameParams xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mapSize>512</mapSize>
+  <heightsMapSize>1025</heightsMapSize>
+  <townCount>8</townCount>
+  <segmentCount>16</segmentCount>
+  <firstTownOffset>16</firstTownOffset>
+  <segmentSize>32</segmentSize>
+  <firstLakeHeight>0.11</firstLakeHeight>
+  <secondLakeHeight>0.099</secondLakeHeight>
+  <dHeight>0.2</dHeight>
+  <fileNameSave>OnceInDales.sav</fileNameSave>
+</krjGameParams>
